@@ -7,14 +7,18 @@ applications using web technologies.
 >It uses [capacitorjs](https://capacitorjs.com) to generate an Android app in **debug mode**.
 
 ## Motivation
-Maybe you're building something awesome but on a resource-constrained device or limited environment, here's a solution.
+Today, there many web-based development environments like GitHub Codespaces, StackBlitz and more with GitHub intergration.
+Anyone can build & test websites on the go, whenever they are.
+You don't have to install anything. But you need a good internet connection.
 
+To build Android apps, you need to set up quite a number of tools and most importantly of all, a good pc (8GB RAM, 8GB disk space and more).
+Take a look at the recommended computer specifications on this page [here](https://developer.android.com/studio/install).
+
+So if you are building something awesome but on a resource-constrained device or limited environment (internet cafe or school computer lab), here's a solution. 
 Leverage GitHub Actions to build Android apps using [capacitorjs](https://capacitorjs.com). 
-
 Download the app from GitHub Releases on mobile and enjoy :rocket:
 
 ## Usage
-
 1. First of all, add a build script in your `package.json` file, for example `vite build` while using [vite](https://vitejs.dev). 
 
 2. Secondly, edit the [capacitor.config.ts](./capacitor.config.ts) file.
