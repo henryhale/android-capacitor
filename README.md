@@ -2,7 +2,9 @@
 
 ## Overview
 This template is created to be a starting point for developing mobile
-applications using web technologies. It uses [capacitorjs](https://capacitorjs.com) to generate an Android app in **debug mode**.
+applications using web technologies.
+
+>It uses [capacitorjs](https://capacitorjs.com) to generate an Android app in **debug mode**.
 
 ## Motivation
 Maybe you're building something awesome but on a resource-constrained device or limited environment, here's a solution.
