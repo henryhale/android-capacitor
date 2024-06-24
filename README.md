@@ -4,7 +4,8 @@
 This template is created to be a starting point for developing mobile
 applications using web technologies.
 
->It uses [capacitorjs](https://capacitorjs.com) to generate an Android app in **debug mode**.
+It uses [capacitorjs](https://capacitorjs.com) to generate an Android app.
+Currently, it is simply a development tool that generates apps in **debug mode** (not production-ready app).
 
 ## Motivation
 Today, there many web-based development environments like GitHub Codespaces, StackBlitz and more with GitHub intergration.
@@ -55,6 +56,9 @@ Edit the config object to suit your project. The `webDir` key takes the folder i
 6. Repeat step 5 using a new tag every time you want to re-build the app.
 
 7. Enjoy :rocket:
+
+## Demo
+I developed a counter app to demonstrate the workflow: [source code on github](https://github.com/henryhale/android-capacitor-demo)
 
 ## Contributing
 In case of any issue or bug, please open a new issue [here](https://github.com/henryhale/android-capacitor/issues/new).
