@@ -47,7 +47,7 @@ Edit the config object to suit your project. The `webDir` key takes the folder i
 7. Enjoy :rocket:
 
 ## Contributing
-In case of any issuse, please open a new issue [here](https://github.com/henryhale/).
+In case of any issue or bug, please open a new issue [here](https://github.com/henryhale/android-capacitor/issues/new).
 
 ## License
 
