@@ -28,7 +28,13 @@ Edit the config object to suit your project. The `webDir` key takes the folder i
 
 3. Place the app icon in `resources/` folder and name it `icon.png`. It should be at least 1024x1024 in dimensions. For new projects, replace the existing file.
 
-4. Ensure that your have the [.github/workflows/build.yml](.github/workflows/build.yml) file. You can rename it incase of naming collisions.
+4. Ensure that your have the [.github/workflows/build.yml](.github/workflows/build.yml) file. You can rename it incase of naming collisions. Then do the following;
+	
+	Allow the workflow to create a release:
+	- Go to your repository on GitHub, click on Settings.
+    - In the left sidebar, select Actions > General.
+    - Under Workflow permissions, select Read and write permissions.
+    - Click Save.
 
 5. To generate the app;
 
