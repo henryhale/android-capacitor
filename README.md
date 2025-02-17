@@ -25,6 +25,8 @@ Download the app from GitHub Releases on mobile and enjoy :rocket:
 2. Secondly, edit the [capacitor.config.ts](./capacitor.config.ts) file.
 Edit the config object to suit your project. The `webDir` key takes the folder in which your bundled files are located for example `dist`.
 
+> [!IMPORTANT]
+> 
 >In case you have no build step, add `"build": "echo no build"` under `scripts` in your `package.json` file. Make `webDir` in [capacitor.config.ts](./capacitor.config.ts) correspond to the folder in which your project files are located for example `src`.
 
 3. Place the app icon in `resources/` folder and name it `icon.png`. It should be at least 1024x1024 in dimensions. For new projects, replace the existing file.
