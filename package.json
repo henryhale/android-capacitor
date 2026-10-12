@@ -5,5 +5,13 @@
   "type": "module",
   "scripts": {
     "build": "echo no build step"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4"
   }
 }
