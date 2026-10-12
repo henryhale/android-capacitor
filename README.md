@@ -69,4 +69,4 @@ In case of any issue or bug, please open a new issue [here](https://github.com/h
 
 Released under [MIT License](./LICENSE.md)
 
-Copyright &copy; 2024 [Henry Hale](https://github.com/henryhale)
+Copyright &copy; 2024-present [Henry Hale](https://github.com/henryhale)
