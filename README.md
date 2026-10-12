@@ -1,4 +1,12 @@
+<div align="center">
+
 # android-capacitor
+
+[![License](https://img.shields.io/github/license/henryhale/android-capacitor)](./LICENSE.md)
+[![Capacitor](https://img.shields.io/github/package-json/dependency-version/henryhale/android-capacitor/dev/@capacitor/core?label=capacitor&logo=capacitor)](https://capacitorjs.com)
+[![Fork](https://img.shields.io/github/forks/henryhale/android-capacitor?style=social)](https://github.com/henryhale/android-capacitor/fork)
+
+</div>
 
 ## Overview
 This template is created to be a starting point for developing mobile
